@@ -11,7 +11,7 @@ ____
 ____
 [Мой любимый сериала Доктор кто](https://doktor-kto-lordserial.ru)
 ____
-![Alt-текст](https://ya.ru/images/search?p=1&text=мем+с+доктором+кто&pos=24&rpt=simage&img_url=https%3A%2F%2Fcs13.pikabu.ru%2Fpost_img%2F2021%2F03%2F29%2F9%2Fog_og_161703176026163648.jpg&from=tabbar&lr=120379)
+[![Alt-текст](https://ya.ru/images/search?p=1&text=мем+с+доктором+кто&pos=24&rpt=simage&img_url=https%3A%2F%2Fcs13.pikabu.ru%2Fpost_img%2F2021%2F03%2F29%2F9%2Fog_og_161703176026163648.jpg&from=tabbar&lr=120379)]
 
 ____
 
