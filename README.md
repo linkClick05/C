@@ -11,7 +11,7 @@ ____
 ____
 [Мой любимый сериала Доктор кто](https://doktor-kto-lordserial.ru)
 ____
-![Alt-текст]()
+![Alt-текст](https://github.com/linkClick05/C/blob/main/Файлы/доктор.jpg)
 
 ____
 
