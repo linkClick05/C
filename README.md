@@ -9,10 +9,14 @@ ____
    2. Внезапный гость: мучительное проклятие юности
    3. Бедствие
 ____
-[Мой любимый сериала Доктор кто]([http://sabaka.net](https://doktor-kto-lordserial.ru/))
+[Мой любимый сериала Доктор кто](https://doktor-kto-lordserial.ru)
 ____
-![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
+![Alt-текст](https://github.com/linkClick05/C/blob/main/anime-art.png)
 
 ____
 
+| LEFT | CENTER | RIGHT |
+|----------------|:---------:|----------------:|
+| По левому краю | По центру | По правому краю |
+| ПРИВЕТ | ХАЙ | ХАЮ_ХАЙ |
 ____
