@@ -1,13 +1,13 @@
 Список
 ____
-1. 91 Days
-2. Dead plate
-3. Bungou Stray Dogs
-4. Jujutsu Kaisen
-5. Shingeki no Kyojin
-   i. Записная книжка Ильзы: запись павшего солдата
-   ii. Внезапный гость: мучительное проклятие юности
-   iii. Бедствие
+*1. 91 Days*
+**2. Dead plate**
+***3. Bungou Stray Dogs***
+_4. Jujutsu Kaisen_
+__5. Shingeki no Kyojin__
+   1. Записная книжка Ильзы: запись павшего солдата
+   2. Внезапный гость: мучительное проклятие юности
+   3. Бедствие
 ____
 
 ____
